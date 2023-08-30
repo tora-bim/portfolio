@@ -1,65 +1,50 @@
-# JS Portfolio Website
+# Tora Kizu Main Portfolio || 木津 虎のポートフォリオ
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://tora-bim.com)
+![demo picture](https://i.ibb.co/2ckjwVw/2023-08-30-203651.png)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+## About Me
 
-<div align="center">
+Hi, my name is Tora Kizu and I'm from Okayama in Japan.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</div>
+I was born in 2008, so I am junior high school student.
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>Project Stats</td>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><a href="https://github.com/19sajib/portfolio"</a>Project</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/portfolio?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/19sajib/portfolio?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/19sajib/portfolio?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
+As a Engineer I always try to make applications for handicapped, because I hope that all people will be equaly in the world.
 
-<br/>
+I am proficient in Python, as well as have knowledge in programming languages such as Javascript, PHP.
 
-## Features
+I have a passion for working with React.js, MariaDB and modern Javascript libraries and frameworks  like React.js
 
-**📖 Multi-Page Layout**
+I am also interested in produce events about programming and education Web Technologies and IT education for children, as well as exploring areas related to Artificial Intelligence.
 
-**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
+_______
 
-**📱 Fully Responsive**
+こんにちは、岡山県出身の木津虎です。
 
-<br />
+2008年生まれの中学生です。
 
-## 🚀 How to get started?
+エンジニアとして、障害者のためのアプリケーションを作ることを常に心がけています。
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Pythonが得意で、JavascriptやPHPなどのプログラミング言語の知識もあります。
 
-## 🛠 Installation and Setup Instructions
+React.js、MariaDB、そしてReact.jsのような最新のJavascriptライブラリやフレームワークを扱うことに情熱を持っています。
 
-1. Installation: `npm install`
+また、プログラミングや教育に関するイベントのプロデュース、Webテクノロジーや子供向けのIT教育、人工知能に関連する分野の探求にも興味があります。
 
-2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
-The page will reload if you make edits.
 
-<br />
-Feel free to contribute to this repo.
+## My Works
 
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
+* Website production for several companies and groups
+* We produced a js app that makes silent mealtime fun!
+* Creation of an application that converts text on images into Braille for the visually impaired.
+* Hosting a community of people interested in IT
+* We present our products at various conferences.
+
+  ___________
+
+* 複数の企業・団体のウェブサイト制作
+* 無言の食事時間を楽しくするjsアプリの製作
+* 視覚障がい者向けに画像上の文字を点字に変換するアプリの制作
+* ITに興味のある人たちのコミュニティの主催
+* 様々なカンファレンスでの発表
