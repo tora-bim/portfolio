@@ -1,7 +1,7 @@
 # Tora Kizu Main Portfolio || 木津 虎のポートフォリオ
 
 ポートフォリオはこちらから。
-[🔗Live Demo🔗](https://tora-bim.com)
+[🔗Click Here!!!🔗](https://tora-bim.com)
 
 
 ![demo picture](https://i.ibb.co/2ckjwVw/2023-08-30-203651.png)
