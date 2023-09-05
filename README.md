@@ -1,6 +1,9 @@
 # Tora Kizu Main Portfolio || 木津 虎のポートフォリオ
 
+ポートフォリオはこちらから。
 [🔗Live Demo🔗](https://tora-bim.com)
+
+
 ![demo picture](https://i.ibb.co/2ckjwVw/2023-08-30-203651.png)
 
 ## About Me
@@ -13,7 +16,7 @@ As a Engineer I always try to make applications for handicapped, because I hope 
 
 I am proficient in Python, as well as have knowledge in programming languages such as Javascript, PHP.
 
-I have a passion for working with React.js, MariaDB and modern Javascript libraries and frameworks  like React.js
+I have a passion for working with React.js, MariaDB and modern Javascript libraries and frameworks
 
 I am also interested in produce events about programming and education Web Technologies and IT education for children, as well as exploring areas related to Artificial Intelligence.
 
@@ -23,11 +26,11 @@ _______
 
 2008年生まれの中学生です。
 
-エンジニアとして、障害者のためのアプリケーションを作ることを常に心がけています。
+エンジニアとして、障がいをもっている方のためのアプリケーションをよく作っています。
 
 Pythonが得意で、JavascriptやPHPなどのプログラミング言語の知識もあります。
 
-React.js、MariaDB、そしてReact.jsのような最新のJavascriptライブラリやフレームワークを扱うことに情熱を持っています。
+React.js、MySQL、そして最新のJavascriptライブラリやフレームワークを扱うことに情熱を持っています。
 
 また、プログラミングや教育に関するイベントのプロデュース、Webテクノロジーや子供向けのIT教育、人工知能に関連する分野の探求にも興味があります。
 
